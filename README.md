@@ -1,5 +1,6 @@
-# FYP
+# CM3070 FYP
 MBTI Predictor
+
 Access the files in the following order:
 1. lstm_with_eda.ipynb
 2. gru.ipynb
