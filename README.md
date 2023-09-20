@@ -1,5 +1,5 @@
 # CM3070 FYP
-MBTI Predictor
+## MBTI Predictor
 
 Access the files in the following order:
 1. lstm_with_eda.ipynb
@@ -21,7 +21,8 @@ social media platforms. The project aims to develop a tool for companies to quic
 gain insight into the personalities of their potential hires to make informed candidate
 selection decisions, maximise the potential of their employees and better manage the
 culture of the firm.
-Motivation
+
+
 Hiring the right candidates is a of paramount importance to organisational success.
 Traditional hiring methods, such as resumes reviews and job interviews, provide
 limited insights into a candidate's personality. This could result in personality conflicts
@@ -31,6 +32,7 @@ analysing their social media activity, hiring managers can gain a deeper underst
 of their personality traits and make applicant evaluations more precise, improve
 assessments of cultural fit, and ultimately increase the likelihood of successful and
 fulfilling employee-company matches.
-Aims and Objectives
+
+
 In this project, I have built a machine learning model that takes in text as input and
 produces a prediction of the MBTI personality type of the user of said text as output.
