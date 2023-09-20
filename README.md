@@ -25,7 +25,7 @@ selection decisions, maximise the potential of their employees and better manage
 culture of the firm.
 
 
-Hiring the right candidates is a of paramount importance to organisational success.
+Hiring the right candidates is of paramount importance to organisational success.
 Traditional hiring methods, such as resumes reviews and job interviews, provide
 limited insights into a candidate's personality. This could result in personality conflicts
 with the company's culture upon hiring. Social media generally serve as a reflection of
