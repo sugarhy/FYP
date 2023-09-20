@@ -1,5 +1,7 @@
 # CM3070 FYP
 ## MBTI Predictor
+In this project, I have built a machine learning model that takes in text as input and
+produces a prediction of the MBTI personality type of the user of said text as output.
 
 Access the files in the following order:
 1. lstm_with_eda.ipynb
@@ -32,7 +34,3 @@ analysing their social media activity, hiring managers can gain a deeper underst
 of their personality traits and make applicant evaluations more precise, improve
 assessments of cultural fit, and ultimately increase the likelihood of successful and
 fulfilling employee-company matches.
-
-
-In this project, I have built a machine learning model that takes in text as input and
-produces a prediction of the MBTI personality type of the user of said text as output.
